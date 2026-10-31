@@ -12,7 +12,6 @@ mvnw.cmd
 .classpath
 .factorypath
 .project
-.settings
 .springBeans
 .sts4-cache
 
@@ -34,3 +33,5 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.settings
